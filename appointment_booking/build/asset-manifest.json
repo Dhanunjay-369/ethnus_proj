@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.100d89ea.css",
+    "main.js": "/static/js/main.599bdd40.js",
+    "static/media/LoginPage.png": "/static/media/LoginPage.71d4247806f684389ada.png",
+    "static/media/login_bg.jpg": "/static/media/login_bg.bb4949cf9a0f16a96cf5.jpg",
+    "static/media/home_bg_1.jpg": "/static/media/home_bg_1.5207082a201385be336c.jpg",
+    "static/media/Kanchan.jpg": "/static/media/Kanchan.25bb5f0dd6c44eb6b8ee.jpg",
+    "static/media/Sheetal_Kamat.jpg": "/static/media/Sheetal_Kamat.2d1d6676ea496ad159b6.jpg",
+    "static/media/Bindumathi_P_L.jpg": "/static/media/Bindumathi_P_L.d1cef2eee24493b30c0a.jpg",
+    "static/media/Devendrappa.png": "/static/media/Devendrappa.b97280aeb37e250cd62d.png",
+    "static/media/Shalini.webp": "/static/media/Shalini.a95844421a9f22996080.webp",
+    "static/media/Shobha_K.jpeg": "/static/media/Shobha_K.73f2bff5d93e3f083199.jpeg",
+    "static/media/Tejaswini_Acharya.jpeg": "/static/media/Tejaswini_Acharya.61f52e156e5655f6d721.jpeg",
+    "static/media/Divya_K_S.jpg": "/static/media/Divya_K_S.5267c0dd9b56dedeae3a.jpg",
+    "static/media/Anand_Dotihal.jpg": "/static/media/Anand_Dotihal.3ed4cf4174cfa31ad00f.jpg",
+    "static/media/Nitha_Prasad.jpeg": "/static/media/Nitha_Prasad.e115d7cfd0376c194a93.jpeg",
+    "static/media/Amruthesh_T_M.jpg": "/static/media/Amruthesh_T_M.73cd1f2cfd9404293112.jpg",
+    "static/media/Lingaraj_Mulage.jpg": "/static/media/Lingaraj_Mulage.32e01a77294b82435834.jpg",
+    "static/media/Dental.png": "/static/media/Dental.5645710a37e16e5cf813.png",
+    "static/media/Umesh_Gupta.jpg": "/static/media/Umesh_Gupta.3055fbcd5950286af183.jpg",
+    "static/media/Gowri_Somayaji.jpg": "/static/media/Gowri_Somayaji.ecb1855f0125c5078f25.jpg",
+    "static/media/Poovamma.jpeg": "/static/media/Poovamma.4881da46615e7618b334.jpeg",
+    "static/media/Sheetal_Bramhesh.jpg": "/static/media/Sheetal_Bramhesh.a4d57098ce2ddd332481.jpg",
+    "static/media/Sandeep_Mahapatra.webp": "/static/media/Sandeep_Mahapatra.325c30bd0d810193a426.webp",
+    "index.html": "/index.html",
+    "main.100d89ea.css.map": "/static/css/main.100d89ea.css.map",
+    "main.599bdd40.js.map": "/static/js/main.599bdd40.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.100d89ea.css",
+    "static/js/main.599bdd40.js"
+  ]
+}
