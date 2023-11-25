@@ -4,6 +4,7 @@ const mongoose = require("mongoose");
 const patientRoute = require("./controller/patientRoute.js");
 const bodyParser = require("body-parser");
 const cors = require("cors");
+const path=require("path");
 
 const app = express();
 
@@ -19,6 +20,10 @@ db.on("error",()=>console.log("Error occurred"));
 // app.use(bodyParser.urlencoded({extended:true}));
 app.use(express.json());
 app.use(cors());
+app.use(express.static(path.join(__dirname,"../appointment_booking/build")));
+app.get("*",function(req,res){
+    res.sendFile(path.join(__dirname,"../appointment_booking/build/index.html"));
+});
 app.use("/patientRoute",patientRoute);
 
 app.listen(3001,()=>{
